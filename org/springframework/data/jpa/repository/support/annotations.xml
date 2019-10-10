@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.data.jpa.repository.support.SimpleJpaRepository'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
